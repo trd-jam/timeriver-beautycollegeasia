@@ -1,0 +1,185 @@
+/* customized css */
+h1, h2, h3, h4, h5, h6{ 
+		font-size: 100%;
+}
+#main-nav{
+	display: none;
+}
+.header-content-wrap{
+	background: none !important;
+	padding: 319px 0 0px !important;
+}
+.header-content-wrap .container{
+	width: 100%;
+}
+.intro-text{
+    width: 100%;
+    margin: auto;
+    margin-top: -13%
+}
+#tagline{
+	height: 165px;
+    width: 100%;
+    text-transform: initial;
+    background-color: #bba398;
+}
+/*content*/
+.row, #carousel-homepage-latestnews {
+	display:none;
+}
+.focus{
+    padding: 0px !important;
+}
+.focus-box{
+	display: none !important;
+}
+.section-header h2{
+    width: 100%;
+    height: 100px;
+	color: white;
+	background: #9ccce3;
+	font-size: 100%;
+	line-height: 95px !important;
+	margin-top: 0px !important;
+}
+.section-header h4{
+	color: #0b3753;
+	font-weight: bold;
+	margin-top: 15px;
+}
+.section-header h6{
+	color: #231F1F !important;
+	margin-top: 55px;
+	width: 53%;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 2;
+}
+.section-header h6 img{
+	margin-top: 10%;
+}
+.about-us{
+    padding-bottom: 0px !important;
+    background: none !important;
+}
+.testimonial, .contact-us{
+	background: white !important;
+}
+#aboutus, #testimonials, #contact{
+    padding-top: 0px; height: auto;
+}
+#aboutus .container, #team .container{
+	background: #ebebeb;
+}
+#aboutus .section-header h2{
+	font-size: 34px !important;
+}
+#aboutus .section-header h4{
+	font-size: 12px;
+}
+.our-team{
+	padding: 0px 0px 0px 0px !important;
+}
+.our-team .section-header h6{
+	width: 70%;
+}
+.testimonial .section-header h6{
+	width: 60%;
+}
+#school{
+	width: 80% !important;
+    margin: auto;
+	border-spacing: 5px 5px;
+    border-collapse: separate;
+	border-bottom: 1px solid gray;
+}
+#school td{
+	text-align: center;
+	padding: 6px 0px 0px 0;
+    color: #3A6B89;
+    font-weight: bolder;
+}
+#school #table_title{
+	background-color: white;
+}
+#price{
+    margin: auto;
+	margin-top: 90px;
+	width: 60% !important;
+}
+#price td {
+    text-align: left;
+    padding: 6px 0px 0px 0;
+    color: #3A6B89;
+    font-weight: bolder;
+}
+#table_price td{
+	font-size: 35px;
+}
+.beauty h3{
+    background-color: white;
+    text-align: center;
+}
+.beauty td {
+	padding: 0px;
+}
+.beauty td img{
+	margin-top: 0px;
+}
+.beauty .left{
+	float: left;
+}
+.beauty .right{
+	float: right;
+}
+#beauty_top, #beauty_bottom{
+	border-spacing: 25px 0px;
+    border-collapse: separate;
+}
+#beauty_bottom{
+	margin-top: 70px;
+}
+#schedules{
+	border-spacing: 2px 2px;
+    border-collapse: separate;
+	color: #0b3753;
+}
+#schedules td{
+	background: #ebebeb;
+	text-align: center;
+}
+.contact-us .left{
+	float: left;
+	padding-left: 20px;
+}
+.contact-us .right{
+	float: right;
+	padding-right: 20px;
+}
+.bottom_text{
+	width: 100%;
+}
+.bottom_text h6{
+	width: 100%;
+	font-size: 12px !important;
+}
+.content-left-wrap, .latest-news{
+    display: none;
+}
+/*sidebar*/
+.sidebar-wrap.content-left-wrap{
+	display: none;
+}
+/*footer*/
+.social{
+	display:none;
+}
+.container {
+    width: 100%;
+	padding: 0px;
+}
+.copyright {
+    padding: 25px  0px 25px 0px !important;
+    background: black !important;
+}
+

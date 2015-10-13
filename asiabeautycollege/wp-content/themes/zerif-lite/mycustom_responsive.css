@@ -1,0 +1,47 @@
+/* my custom responsive */
+h1, h2, h3, h4, h5, h6{ 
+		font-size: 100%;
+}
+@media (max-width: 767px){
+	.container{
+		width: 100% !important;
+	}
+	.section-header h6{
+		width: 90%;
+	}
+	#aboutus .section-header h2{
+		font-size: 100% !important;
+	}
+	#team .section-header h4{
+		font-size: 16px !important;
+	}
+	#table_price td {
+		font-size: 100%;
+	}
+	#price{
+		width: 90% !important;
+	}
+	.beauty td {
+		width: 100%;
+		margin-top: 37px;
+	}
+	#beauty_top, #beauty_bottom {
+		border-spacing: 0px 0px;
+	}
+	#school{
+		width: 100% !important;
+	}
+	#schedules td{
+		padding: 0px;
+	}
+	.testimonial .section-header h6 {
+		width: 90%;
+	}
+	.contact-us .left, .contact-us .right{
+		float: none;
+		padding: 0px;
+	}
+}
+@media (max-width: 630px){
+
+}
